@@ -1,5 +1,5 @@
 # MethodsInJava
-This repository provides a collection of Java methods categorized based on their input and output characteristics. Whether you're a beginner learning Java these methods cover various scenarios.
+This repository provides a collection of Java methods categorized based on their input and output characteristics. If you're a beginner learning Java these methods cover various scenarios.
 
 ## Introduction
 
