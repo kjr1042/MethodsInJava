@@ -15,18 +15,28 @@ Each category is represented in its own directory with relevant Java files conta
 
 ### 1. No Input and No Output
 - **Description**: Methods that do not require any input and do not produce any output.
-- **Example**:
+  
+ **Example**:
   ```java
-   `void printHello() { System.out.println("Hello!"); }`
+   void printHello() { System.out.println("Hello!"); }
 
 ### 2. No Input and Output
 - **Description**: Methods that do not require any input but produce some output.
-- **Example**: `String getGreeting() { return "Hello, World!"; }`
+  
+ **Example**:
+  ```java
+  String getGreeting() { return "Hello, World!"; }
 
 ### 3. Input and No Output
 - **Description**: Methods that require input but do not produce any output.
-- **Example**: `void printMessage(String message) { System.out.println(message); }`
-
+  
+ **Example**:
+  ```java
+  void printMessage(String message) { System.out.println(message); }
+  
 ### 4. Input and Output
 - **Description**: Methods that require input and produce output.
-- **Example**: `int addNumbers(int a, int b) { return a + b; }`
+
+ **Example**:
+  ```java
+  int addNumbers(int a, int b) { return a + b; }
